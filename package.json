@@ -4,8 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/chingizmaniev/Contact-Book.git",
   "author": "Cobbmanu <cmaniev@gmail.com>",
+  "license": "MIT",
   "homepage": "https://chingizmaniev.github.io/Contact-Book/",
-  "private": "true",
+  "private": true,
   "scripts": {
     "deploy": "gh-pages -d build"
   },
